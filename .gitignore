@@ -1,3 +1,4 @@
 dist/
 *.tsbuildinfo
-
+.playwright-cli/
+output/
